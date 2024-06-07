@@ -1,4 +1,4 @@
-
+#include "binary_trees.h"
 /**
  * binary_tree_preorder -use order to go to the tree
  * @tree: pointer to the root node
